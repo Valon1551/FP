@@ -1,4 +1,4 @@
-# FP @ WI Reutlingen
+# FP
 ##Warm-Ups
 * [Of Horses and Stables](https://github.com/Valon1551/FP/tree/HorseStable)
 * TheNextDay
