@@ -14,7 +14,7 @@ In den Stall können Pferde hineingestellt und herausgenommen werden. Außerdem 
 ### Methoden
 * Getter und Setter für `name`
 * Getter für `gender`
-* Getter für `age'
+* Getter für `age`
 * insertFoal(Horse foal)
 * nameOfFoal()
 
