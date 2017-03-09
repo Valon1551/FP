@@ -11,6 +11,7 @@ In den Stall können Pferde hineingestellt und herausgenommen werden. Außerdem 
 | int   | age      |
 | String | gender      |
 |boolean | hasFoal|
+|Horse | foal|
 ### Methoden
 * Getter und Setter für `name`
 * Getter für `gender`
